@@ -2,7 +2,7 @@ import random
 
 seedVal = int(input("What seed should be used? "))
 random.seed(seedVal)
-print('Welcome to higher or lower, Isaiah! HAVE FUN!!! :)')
+print('Welcome to higher or lower! HAVE FUN!!! :)')
 lower = int(input('enter lower boundary: '))
 print('lower: ', lower)
 upper = int(input('enter upper boundary: '))
